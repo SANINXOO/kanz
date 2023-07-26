@@ -1,0 +1,214 @@
+.main1{
+    background-color: rgb(239, 194, 106);
+    height: 75px;
+    display: flex;
+    margin-bottom: 40px;
+}
+.mainleft img{
+    height: 95px;
+    padding-left: 60px;
+    /* padding-top: px; */
+}
+.mainright{
+    display: flex;
+    padding-left: 500px;
+    padding-top: 30px;
+    letter-spacing: 3px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    gap: 30px;
+    font-size: 13px;
+    /* text-decoration: none; */
+}
+.mainright a{
+    text-decoration: none;
+    color: black;
+
+}
+.mainright a:hover{
+    /* text-decoration: none; */
+    color: aliceblue;
+}
+.ficon{
+    padding-left: 80px;
+    padding-top: 20px;
+    /* gap: 10px; */
+    /* padding-right: 10px; */
+}
+.ficon i{
+    border: 2px solid white;
+    border-radius: 100%;
+    padding: 7px;
+    background-color: rgb(127, 92, 48);
+    color: rgb(255, 255, 255);
+    margin-right: 20px;
+
+}
+.ficon i:hover{
+    background-color: aliceblue;
+    color: black;
+}
+.main2{
+    background-image: linear-gradient(rgba(27, 27, 27, 0.868),rgba(27, 27, 27, 0.338)), url(../images/products.jpg);
+    background-size: cover;
+    
+    height: 700px;
+    text-align: center;
+    align-items: center;
+    background-repeat: no-repeat;
+    
+    
+    /* text-align: center; */
+    /* display: flex; */
+    /* justify-content: start; */
+    
+       
+}
+.product{
+    
+    margin: auto;
+    font-size: 60px;
+    color: rgb(157, 156, 156);
+    
+   
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   
+
+    letter-spacing: 5px;
+    padding-top: 300px;
+}
+.main-under{
+    border-bottom: 2px solid rgb(109, 108, 108);
+    width: 30%;
+    margin: auto;
+}
+.kanzmid img{
+    width: 10%;   
+    
+}
+.kanzmid{
+    text-align: center;
+}
+.main3{
+    display: flex;
+    margin-left: 70px;
+    gap: 50px;
+    padding-top: 30px;
+    height: 450px;
+}
+.card{
+    box-shadow:  0px 0px 19px -4px rgba(0,0,0,0.75);;
+  
+}
+.card-body1{
+    font-size: 10px;
+    padding-top: 5px;
+    text-align: center;
+}
+.card-body2{
+    font-size: 10px;
+    padding-top: 12px;
+    text-align: center;
+}
+.main3img2 img{
+    padding-left: 50px;
+    width: 80%;
+    height: 300px;
+}
+
+.btn a{
+    background-color: rgb(255, 255, 255);
+    text-decoration: none;
+    border: 2px solid black;
+    border-radius: 5px;
+    padding: 3px;
+    color: black;
+}
+.btn :hover{
+    background-color: rgb(0, 0, 0); 
+    color: aliceblue;
+}
+.main3img3  img{
+    padding-top: 120px;
+}
+.card-body3{
+    font-size: 10px;
+    padding-top: 50px;
+    text-align: center;
+}
+.card-body4{
+    font-size: 10px;
+    padding-top: 26px;
+    text-align: center;
+}
+.main4{
+    display: flex;
+    margin-left: 70px;
+    gap: 50px;
+    padding-top: 30px;
+    height: 390px;
+}
+.card-body5{
+    font-size: 10px;
+    padding-top: 26px;
+    text-align: center;
+}
+.main4img2 img{
+    width: 85%;
+    margin-left: 30px;
+}
+.card-body6{
+    font-size: 10px;
+    margin-top: 1px;
+    text-align: center;
+    
+}
+.main4img3 img{
+    width: 85%;
+    margin-left: 30px;
+}
+.card-body7{
+    font-size: 10px;
+    margin-top: 1px;
+    text-align: center;
+    
+}
+.main4img4 img{
+    width: 85%;
+    margin-left: 30px;
+}
+.card-body8{
+    font-size: 10px;
+    margin-top: 1px;
+    text-align: center;
+    
+}
+.foot{
+    margin-top: 60px;
+    width: 100%;
+    height: 100px;
+    background-color: rgb(42, 58, 76);
+    display: flex;
+
+}
+.left h2{
+    margin-left: 50px;
+    color: aliceblue;
+    /* margin-top: 40px; */
+    padding-top: 30px ;
+    font-size: 25px;
+    letter-spacing: 2px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.right{
+    display: flex;
+    margin-left: 370px;
+    align-items: center;
+    gap: 10px;
+
+}
+.right input{
+
+}
+.btn{
+    background-color: black;
+}
